@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dhamodharan K
-    tagline: Python Developer
+    name: Shanmathi C
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dhamodharanrk@gmail.com
-    phone: +91 98940 28181
-    website: dhamodharanrk.github.io
-    linkedin: dhamodharanrk
-    github: dhamodharanrk
+    email: shanmathic1994@gmail.com
+    phone: +91 88703 00466
+    website: https://shanmathic1994.github.io/online-cv/index.html
+    linkedin: shanmathic1994
+    github: shanmathic1994
     gitlab:
     bitbucket:
-    twitter: '@dhamodharanrk'
-    stack-overflow: 8595312/dhamodharan
+    twitter:
+    stack-overflow:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -32,22 +32,22 @@ sidebar:
         level: Professional
         
     interests:
-      - item: Blog
-        link:
-
-      - item: Games
-        link:
-
       - item: Cooking
+        link:
+
+      - item: Drawing
+        link:
+
+      - item: NA
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      A dynamic and professional Data Mining Specialist with excellent
-      knowledge in analyzing large data, building, deploying and maintaining data
-      support tools. Expertise in research and development of Parsers for web
-      scrapping. Possess excellent domain knowledge and leadership skills.
+      A dynamic and professional Web Application Developer with excellent
+      knowledge in building, deploying and maintaining high
+      level web applications. Expertise in research and development.
+      Possess excellent domain knowledge and leadership skills.
 
 education:
     - degree: BE Computer Science and Engineering
@@ -174,4 +174,4 @@ skills:
         level: 40%
 
 footer: >
-    Copyright @ <i class="fas fa-heart"></i> by <a href="https://dhamodharanrk.github.io/" target="_blank" rel="nofollow">Dhamodharan</a>
+    Copyright @ <i class="fas fa-heart"></i> by <a href="https://shanmathic1994.github.io/online-cv/index.html" target="_blank" rel="nofollow">Shanmathi</a>
