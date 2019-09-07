@@ -35,10 +35,10 @@ sidebar:
       - item: Cooking
         link:
 
-      - item: Drawing
+      - item: Gardening
         link:
 
-      - item: NA
+      - item: Craft works
         link:
 
 career-profile:
@@ -51,7 +51,7 @@ career-profile:
 
 education:
     - degree: BE Computer Science and Engineering
-      university: Kumaraguru College of Technology
+      university: Sri Krishna College of Technology
       time: 2012 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -77,9 +77,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Senior Software Developer
-      time: Feb 2019 - Till date
-      company: PPTS Pvt Ltd, Coimbatore
+    - role: Software Engineer
+      time: May 2017 - Till date
+      company: Park Global HR Services, Coimbatore
       details: |
         As a part of Infrastructure Development & Support team, handling development
         for high complex websites and building futuristic platforms for effective data retrieval.
@@ -95,9 +95,9 @@ experiences:
           - Experience in deep Research and Development.
           - In depth Legal domain knowledge.
 
-    - role: Software Engineer
-      time: 2015 - 2019
-      company: Ugam Solutions Pvt Ltd, Coimbatore
+    - role: Junior Software Development Engineer 
+      time: Apr 2016 - Jan 2017
+      company: Cloud Assert Technologies Solution, Coimbatore
       details: |
         As a part of Infrastructure Development & Support team, handling development
         for high complex websites and building futuristic platforms for effective data retrieval.
@@ -110,19 +110,29 @@ experiences:
           - Providing Hands-on trainings to Operation Teams and New bees.
           - Experience in Research and Development.
 
+ - role: Program Analyst Trainee 
+      time: Sep 2015 - Feb 2016
+      company: Cognizant Technology Solutions Pvt Ltd, Coimbatore
+      details: |
+        As a part of Infrastructure Development & Support team, handling development
+        for high complex websites and building futuristic platforms for effective data retrieval.
+        
+          - 3 years experience in python for Scrapping and Automation.
+          - In depth e-Commerce domain knowledge.
+          - Framework Development Experience for data extraction.
+          - Hands on experience in multiple technologies for scrapping/mining.
+          - Working experience on Node JS, Selenium for Browser Automation.
+          - Providing Hands-on trainings to Operation Teams and New bees.
+          - Experience in Research and Development.
 
 publications:
     title: Certifictaions
     intro: |
       
     papers:
-      - title: Data Science using Python - 2019
-        authors: Data Handling, Data Modelling & Machine Learning
-        conference: Analytixlabs, Bangalore.
-
-      - title: Certified Big Data Expert - Ongoing
-        authors: HDFS, MapReduce, Pig, Hive, Impala Hbase, Sqoop, Flume and Spark.
-        conference: Analytixlabs, Bangalore.
+      - title: Oracle Certified Java Professional 
+        authors: as a part of ORACLE’s workforce development program at Sri Krishna I-Tech and Management Solution Private Limited.
+        conference: Coimbatore.
 
 projects:
     title: Projects
@@ -152,26 +162,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Core Python
-        level: 98%
+      - name: .Net MVC
+        level: 85%
 
-      - name: Automations using Python
-        level: 97%
+      - name: C#
+        level: 90%
 
-      - name: Machine Learning
-        level: 50%
+      - name: Javascript
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 60%
-
-      - name: Flask
+      - name: Knockout JS
         level: 40%
 
-      - name: MongoDB
-        level: 60%
+      - name: Java
+        level: 40%
+
+      - name: SQL Server
+        level: 75%
         
-      - name: SQL
-        level: 40%
+      - name: Elastic Search
+        level: 30%
 
 footer: >
     Copyright @ <i class="fas fa-heart"></i> by <a href="https://shanmathic1994.github.io/online-cv/index.html" target="_blank" rel="nofollow">Shanmathi</a>
